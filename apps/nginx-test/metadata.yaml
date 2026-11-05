@@ -1,0 +1,4 @@
+name: nginx-test
+version: 1.0.0
+displayName: NGINX Test App
+description: A simple NGINX test application for NKP Catalog demonstration.
