@@ -1,0 +1,11 @@
+schema: catalog.nkp.nutanix.com/v1/application-metadata
+displayName: NGINX Test App
+description: A simple NGINX test application for NKP Catalog demonstration.
+category:
+  - networking
+licensing:
+  - Pro
+  - Ultimate
+scope:
+  - workspace
+  - project
